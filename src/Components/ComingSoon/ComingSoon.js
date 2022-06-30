@@ -10,7 +10,7 @@ const ComingSoon = () => {
         <div className="section_content">
         <Fade bottom>
           <h1>Coming Soon</h1>
-          <button className="btn btn--white">KNOW MORE</button>
+          <a href='https://dslegends.org'><button className="btn btn--white">KNOW MORE</button></a>
           </Fade>
         </div>
       </section>
